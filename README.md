@@ -7,3 +7,4 @@
 ![Alt Text](https://github.com/Larasati11/JobsheetPBO/blob/master/PBOLuasPermukaanBola.png)
 ![Alt Text](https://github.com/Larasati11/JobsheetPBO/blob/master/PBOPraktikum.png)
 ![Alt Text](https://github.com/Larasati11/JobsheetPBO/blob/master/PBOSepedaMotor.png)
+![Alt Text](https://github.com/Larasati11/JobsheetPBO/blob/master/PBOVariabel.png)
