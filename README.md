@@ -9,3 +9,4 @@
 ![Alt Text](https://github.com/Larasati11/JobsheetPBO/blob/master/PBOSepedaMotor.png)
 ![Alt Text](https://github.com/Larasati11/JobsheetPBO/blob/master/PBOVariabel.png)
 ![Alt Text](https://github.com/Larasati11/JobsheetPBO/blob/master/PBOKelompok.png)
+![Alt Text](https://github.com/Larasati11/JobsheetPBO/blob/master/PBOWord.docx)
